@@ -10,10 +10,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppointmentManagement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85c07271b3625fe22cf34deccca2286869d14d11")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppointmentManagement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppointmentManagement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
